@@ -1,4 +1,4 @@
-the mrl data was originally obtained from https://huggingface.co/datasets/bluuebunny/arxiv_abstract_embedding_mxbai_large_v1_milvus
+the mrl data https://drive.google.com/file/d/1MDSvioeGhtLzjWg4lqG2h4bGdDKkTiI2/view?usp=sharing was originally obtained from https://huggingface.co/datasets/bluuebunny/arxiv_abstract_embedding_mxbai_large_v1_milvus
 1M vectors were extracted.
 
 For GIST1M and SIFT1M:
